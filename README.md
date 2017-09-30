@@ -13,7 +13,7 @@ Currently young people use a paper form to provide information the their future 
 ### Solution :bulb:
 Our aim is to make a user friendly and enjoyable app to enable young people to spend the time required to fill in the details to help them transition smoothly into adult care. 
 
-### Prototype
+### Prototype :pencil:
 We took inspiration for this app from Typeform and Google Forms. 
 
 The total flow: 
@@ -24,7 +24,7 @@ A few close ups:
 
 ![ABM figma](https://files.gitter.im/Jen-Harris/NYNq/image.png)
 
-### Final Product
+### Final Product :sparkles:
 _*Coming Soon!*_
 
 ## LitLearn :books::iphone:
