@@ -1,7 +1,7 @@
 # Jen Harris | Portfolio :ledger:
 
 ## All About Me
-_*3 week project | 25.9.17 - 13.10.17*_
+_*3 week project Client Project | 25.9.17 - 13.10.17*_
 
 ### Summary :page_with_curl: 
 At Founders and Coders we have a long standing relationship with [Anna Frued Centre](http://www.annafreud.org/) and the idea for "All About Me" came from a short ideation session with young people and clinicians. 
@@ -28,7 +28,7 @@ A few close ups:
 _*Coming Soon!*_
 
 ## LitLearn :books::iphone:
-_*3 week project | 28.8.17 - 15.9.17*_
+_*3 week project student project | 28.8.17 - 15.9.17*_
 ### Summary :page_with_curl: 
 Lit Learn is a web-app to help UK school students prepare for their GCSE English and English Literature exams. Litlearn aims to help students anxious about the unseen text questions included in the [new English GCSE exams](http://www.telegraph.co.uk/education/2017/07/18/students-find-new-english-gcse-torturous-may-deterred-continuing/) by giving them structured practice that builds in difficulty.
 
