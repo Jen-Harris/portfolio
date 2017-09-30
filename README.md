@@ -3,6 +3,26 @@
 ## All About Me
 _*3 week project | 25.9.17 - 13.10.17*_
 
+### Summary :page_with_curl: 
+At Founders and Coders we have a long standing relationship with [Anna Frued Centre](http://www.annafreud.org/) and the idea for "All About Me" came from a short ideation session with young people and clinicians. 
+All about me is an app to help young people with mental ill health transition to adult care by providing them with a simple form that enables them to explain personal details about themselves to avoid repeating distressing memories with multiple new clinicians. 
+
+### Challenge :dizzy:
+Currently young people use a paper form to provide information the their future clinicians. We needed to ensure that the app provides a more engaging alternative to the current solution whilst minimising the distress caused with more challenging questions.
+
+### Solution :bulb:
+Our aim is to make a user friendly and enjoyable app to enable young people to spend the time required to fill in the details to help them transition smoothly into adult care. 
+
+### Prototype
+We took inspiration for this app from Typeform and Google Forms. 
+
+![Home Screen](https://files.gitter.im/Jen-Harris/PiY9/Home-Screen-_1_.png)
+![Progress](https://files.gitter.im/Jen-Harris/kAIx/image.png)
+![Basic Info](https://files.gitter.im/Jen-Harris/g6oK/Basic-info-question.png)
+![Symptoms](https://files.gitter.im/Jen-Harris/LPin/image.png)
+
+### Final Product
+_*Coming Soon!*_
 
 ## LitLearn :books::iphone:
 _*3 week project | 28.8.17 - 15.9.17*_
@@ -30,6 +50,8 @@ For our design spring we followed a number of methods to reach a
 
 ### Prototype :pencil2:
 We spend a day building our prototype using Figma which we used to carry out our user testing and as a continual reference during development.  
+
+We based our designs on the persona and took inspiration from Instagram and musical.ly.
 
 ![Landing Page](https://files.gitter.im/Jen-Harris/iN6U/Splash-_-login.png) ![choose a question](https://files.gitter.im/Jen-Harris/oNbt/Question-Choice.png) ![Multichoice](https://files.gitter.im/Jen-Harris/oNbt/extract-multichoice.png)![Congratulation Page](https://files.gitter.im/Jen-Harris/ZTEy/medla.png)
 
