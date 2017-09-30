@@ -68,6 +68,9 @@ If you want to see more about the project the repo is [here](https://github.com/
 
 ## Want more? :sunglasses:
 Check out my [CV](https://github.com/Jen-Harris/cv)
-Or a couple of my Founders & Coders student projects:
+
+or a couple of my Founders & Coders student projects:
 * [The FACtory](https://github.com/Jen-Harris/the-FACtory) | A platform for students at Founders & Coders to share ideas for student projects
 * [Beans](https://github.com/Jen-Harris/week6-kidneybeans)| An app to share cool coffee shop and restaurant suggestions around Founders & Coders
+
+:wave:
