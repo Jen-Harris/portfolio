@@ -1,4 +1,4 @@
-# Jen Harris | Portfolio 
+# Jen Harris | Portfolio :ledger:
 
 ## All About Me
 _*3 week project | 25.9.17 - 13.10.17*_
