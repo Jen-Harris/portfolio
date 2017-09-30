@@ -56,7 +56,7 @@ We spend a day building our prototype using Figma which we used to carry out our
 
 We based our designs on the persona and took inspiration from Instagram and musical.ly.
 
-![Landing Page](https://files.gitter.im/Jen-Harris/iN6U/Splash-_-login.png) ![choose a question](https://files.gitter.im/Jen-Harris/oNbt/Question-Choice.png) ![Multichoice](https://files.gitter.im/Jen-Harris/oNbt/extract-multichoice.png)![Congratulation Page](https://files.gitter.im/Jen-Harris/ZTEy/medla.png)
+![LL Figma](https://files.gitter.im/Jen-Harris/rEsH/image.png)
 
 
 ### Final Product :sparkles:
