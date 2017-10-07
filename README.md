@@ -1,7 +1,7 @@
 # Jen Harris | Portfolio :ledger:
 
 ## All About Me
-_*3 week project Client Project | 25.9.17 - 13.10.17*_
+_*3 week Client Project | 25.9.17 - 13.10.17*_
 
 ### Summary :page_with_curl: 
 At Founders and Coders we have a long standing relationship with [Anna Frued Centre](http://www.annafreud.org/) and the idea for "All About Me" came from a short ideation session with young people and clinicians. 
