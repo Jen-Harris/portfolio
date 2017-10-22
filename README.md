@@ -25,13 +25,12 @@ A few close ups:
 ![ABM figma](https://files.gitter.im/Jen-Harris/NYNq/image.png)
 
 ### Final Product :sparkles:
-Check it out [here](https://allaboutme-annafreud.herokuapp.com/) :eyes: 
+The app is hosted on Heroku and you can see it [here](https://allaboutme-annafreud.herokuapp.com/) :eyes: 
 
 Or look at this short video that shows basic functionality of the app:  
 
 ![app walkthrough gif](https://i.imgur.com/Ibg2ykx.gif)  
 
-![](https://files.gitter.im/foundersandcoders/AllAboutMe/3bB8/image.png)
 
 ## LitLearn :books::iphone:
 _*3 week project student project | 28.8.17 - 15.9.17*_
