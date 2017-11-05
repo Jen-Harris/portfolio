@@ -3,14 +3,24 @@
 ## Donut4Life 
 _*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.17*_  
 
-__Coming Soon__
+### Summary :page_with_curl: 
+
+### Challenge :dizzy:
+
+
+### Solution :bulb:
+
+
+### Prototype :pencil:
+Taking the color scheme from the RNLI website and design elments from Fitbit we created the following prototype: 
+
 
 ## All About Me
 _*3 week Client Project | 25.9.17 - 13.10.17*_
 
 ### Summary :page_with_curl: 
 At Founders and Coders we have a long standing relationship with [Anna Frued Centre](http://www.annafreud.org/) and the idea for "All About Me" came from a short ideation session with young people and clinicians. 
-All about me is an app to help young people with mental ill health transition to adult care by providing them with a simple form that enables them to explain personal details about themselves to avoid repeating distressing memories with multiple new clinicians. 
+_*All About Me*_ is an app to help young people with mental ill health transition to adult care by providing them with a simple form that enables them to explain personal details about themselves to avoid repeating distressing memories with multiple clinicians. 
 
 ### Challenge :dizzy:
 Currently young people use a paper form to provide information the their future clinicians. We needed to ensure that the app provides a more engaging alternative to the current solution whilst minimising the distress caused with more challenging questions.
