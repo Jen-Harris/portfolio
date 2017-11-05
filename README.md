@@ -12,7 +12,7 @@ In the UK walking is alarmingly the 2nd highest cause of fatalities in the UK. T
 The RNLI feel strongly that these would be preventable with the correct education amongst the vulnerable and want to use technology to help.   
   
 ### Solution :bulb:
-As a team we came up with a joint hardware and software solution.    
+As a team we came up with a joint hardware and software solution to tackle the issue of drowning fatalities and accidents amongst the walkers.    
 #### Hardware  
 We invisioned the hardware device to have the appearance of a life buoy and be used a key ring or necklace. The device when squeezed would have the ability to alert your local RNLI representative if you are in a dangerous situation.  
 ![](https://files.gitter.im/Jen-Harris/92It/image.png)  
