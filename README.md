@@ -1,7 +1,7 @@
 # Jen Harris | Portfolio :ledger:
 
-## Donut4Life - RNLI 
-_*1 Day Hackathon in collaboration with Facebook & Ladies that UX | 4.11.17*_  
+## Donut4Life 
+_*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.17*_  
 
 __Coming Soon__
 
