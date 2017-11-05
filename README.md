@@ -14,7 +14,9 @@ _*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.1
 
 ### Prototype of companion app :pencil:
 Taking inspiration from the RNLI colour scheme and design elments from Fitbit we created the following prototype using Sketch and Marvel:  
-![Prototype](https://files.gitter.im/Jen-Harris/hNUB/image.png)     
+  
+![Prototype](https://files.gitter.im/Jen-Harris/hNUB/image.png)  
+  
 ![RNLI gif](http://g.recordit.co/2OC7gfGSSC.gif)
 
 ## All About Me
