@@ -5,15 +5,17 @@ _*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.1
 
 ### Summary :page_with_curl: 
 
+
 ### Challenge :dizzy:
 
 
 ### Solution :bulb:
+![](https://files.gitter.im/Jen-Harris/92It/image.png)
 
-
-### Prototype :pencil:
-Taking the color scheme from the RNLI website and design elments from Fitbit we created the following prototype: 
-
+### Prototype of companion app :pencil:
+Taking inspiration from the RNLI colour scheme and design elments from Fitbit we created the following prototype using Sketch and Marvel:  
+![Prototype](https://files.gitter.im/Jen-Harris/hNUB/image.png)     
+![RNLI gif](http://g.recordit.co/2OC7gfGSSC.gif)
 
 ## All About Me
 _*3 week Client Project | 25.9.17 - 13.10.17*_
