@@ -4,12 +4,15 @@
 _*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.17*_  
 
 ### Summary :page_with_curl: 
-
+The Royal National Life Boat Institution (RNLI) is the largest charity that saves lives at sea in the UK. As a team we focused on exploring ways to _*"Encourage walkers to behave safetly near the water"*_. 
 
 ### Challenge :dizzy:
-
-
+Currently in the UK there are 400 preventable water fatalities a year, with over 360,000 globally. 
+In the UK walking is alarmingly the 2nd highest cause of fatalities in the UK. These are people who are typically familiar with their walking route and have an 80% likelihood to be male.
+The RNLI feel strongly that these would be preventable with the correct education amongst the vulnerable and want to use technology to help.   
+  
 ### Solution :bulb:
+As a team we 
 ![](https://files.gitter.im/Jen-Harris/92It/image.png)
 
 ### Prototype of companion app :pencil:
