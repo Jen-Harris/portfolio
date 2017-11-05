@@ -34,13 +34,7 @@ Our aim is to make a user friendly and enjoyable app to enable young people to s
 
 ### Prototype :pencil:
 We took inspiration for this app from Typeform and Google Forms. 
-
-The total flow: 
-
-![Full ABM figma](https://files.gitter.im/Jen-Harris/oPAu/image.png)
-
-A few close ups:
-
+  
 ![ABM figma](https://files.gitter.im/Jen-Harris/NYNq/image.png)
 
 ### Final Product :sparkles:
