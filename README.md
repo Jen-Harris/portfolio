@@ -64,7 +64,7 @@ We wanted to create a gamefied revision tool, where students could compare, rate
 To help students overcome anxiety about responding to long, unseen texts, we simplified the task by starting them off on a shorter piece of writing, and a multiple-choice question to help prompt ideas for their inferences.
 
 ### Design Sprint :art:
-For our design spring we followed a number of methods to reach a 
+For our design spring we followed a number of methods:
 * User research
 * User Personas 
 * Problem statements 
@@ -74,9 +74,7 @@ For our design spring we followed a number of methods to reach a
 * User testing 
 
 ### Prototype :pencil2:
-We spend a day building our prototype using Figma which we used to carry out our user testing and as a continual reference during development.  
-
-We based our designs on the persona and took inspiration from Instagram and musical.ly.
+We spent a day building our prototype using Figma. We used this prototype to carry out our user testing and as a continual reference during development.  
 
 ![LL Figma](https://files.gitter.im/Jen-Harris/rEsH/image.png)
 
