@@ -18,7 +18,8 @@ We invisioned the hardware device to have the appearance of a life buoy and be u
 ![](https://files.gitter.im/Jen-Harris/92It/image.png)  
 
 #### Software  
-The companion software would compliment the hardware by providing users somewhere to:  
+  
+The companion software would compliment the hardware by providing users somewhere to:    
 * Regiter their keyring
 * Invite friends to start using the technology
 * Educate users through trivia and _*"Did you know?"*_ features
@@ -28,7 +29,10 @@ For our design we took inspiration from the RNLI colour scheme and design elment
   
 ![Prototype](https://files.gitter.im/Jen-Harris/hNUB/image.png)  
   
-![RNLI gif](http://g.recordit.co/2OC7gfGSSC.gif)
+![RNLI gif](http://g.recordit.co/2OC7gfGSSC.gif)  
+  
+  --- 
+    
 
 ## All About Me
 _*3 week Client Project | 25.9.17 - 13.10.17*_
@@ -54,6 +58,9 @@ The app is hosted on Heroku and you can see it [here](https://allaboutme-annafre
 Or look at this short video that shows basic functionality of the app:  
 
 ![app walkthrough gif](https://i.imgur.com/Ibg2ykx.gif)  
+  
+---
+  
 
 
 ## LitLearn :books::iphone:
@@ -91,7 +98,10 @@ We spent a day building our prototype using Figma. We used this prototype to car
 
 The final project is hosted on Heroku and can be found [here](https://litlearn.herokuapp.com/)
 
-If you want to see more about the project the repo is [here](https://github.com/Jen-Harris/litlearn)
+If you want to see more about the project the repo is [here](https://github.com/Jen-Harris/litlearn)  
+  
+  ---
+    
 
 ## Want more? :sunglasses:
 Check out my [CV](https://github.com/Jen-Harris/cv)
