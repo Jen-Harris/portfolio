@@ -12,11 +12,19 @@ In the UK walking is alarmingly the 2nd highest cause of fatalities in the UK. T
 The RNLI feel strongly that these would be preventable with the correct education amongst the vulnerable and want to use technology to help.   
   
 ### Solution :bulb:
-As a team we 
-![](https://files.gitter.im/Jen-Harris/92It/image.png)
+As a team we came up with a joint hardware and software solution.    
+#### Hardware  
+We invisioned the hardware device to have the appearance of a life buoy and be used a key ring or necklace. The device when squeezed would have the ability to alert your local RNLI representative if you are in a dangerous situation.  
+![](https://files.gitter.im/Jen-Harris/92It/image.png)  
 
-### Prototype of companion app :pencil:
-Taking inspiration from the RNLI colour scheme and design elments from Fitbit we created the following prototype using Sketch and Marvel:  
+#### Software  
+The companion software would compliment the hardware by providing users somewhere to:  
+* Regiter their keyring
+* Invite friends to start using the technology
+* Educate users through trivia and _*"Did you know?"*_ features
+* Raise awareness about the tide by having alerts and and clear high-tide times built into the dashboard  
+
+For our design we took inspiration from the RNLI colour scheme and design elments from Fitbit. we created the following prototype using Sketch and Marvel:  
   
 ![Prototype](https://files.gitter.im/Jen-Harris/hNUB/image.png)  
   
