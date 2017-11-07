@@ -1,5 +1,10 @@
 # Jen Harris | Portfolio :ledger:
 
+## Cast 
+_*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
+
+__*Coming Soon...*__:dancer:
+
 ## Donut4Life 
 _*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.17*_  
 
