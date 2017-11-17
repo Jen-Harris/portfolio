@@ -23,7 +23,7 @@ This will enable users to easily discover whether they are elibgible to travel t
 ![Sketch design 2](https://files.gitter.im/Jen-Harris/FgoI/image.png)
 
 ### Final Product :trophy:
-See our final product [here!](http://unlock-chat.surge.sh/)
+See our final product [here!](http://unlock-chat.surge.sh/):eyes:
   
   Or see the flow below: 
   ![gif of flow](https://files.gitter.im/Jen-Harris/16yl/UnlockFinalProduct2.gif)
