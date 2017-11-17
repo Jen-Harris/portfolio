@@ -3,10 +3,10 @@
 ## Cast 
 _*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
 
-### Week 1 : Unlock 
+### Week 1 | Unlock :unlock:
 
 ### Overview 
-Unlock have a real problem with their helpline has seen an increase in calls relating to questions that can be answered through their online "information hub". They needed to find a way to reduce the number of calls related to simple questions to free up the time of the volunteers and focus on more challenging discussions.  
+Unlock have a real problem with their helpline which has seen an increase in calls relating to questions that can be answered through their online "information hub". They needed to find a way to reduce the number of calls related to simple questions to free up the time of the volunteers and focus on more challenging discussions.  
   
 __Our Solution?__
 
