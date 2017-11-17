@@ -5,10 +5,10 @@ _*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
 
 ### Week 1 | Unlock :unlock:
 
-### Overview 
+### Overview :clipboard:
 Unlock have a real problem with their helpline which has seen an increase in calls relating to questions that can be answered through their online "information hub". They needed to find a way to reduce the number of calls related to simple questions to free up the time of the volunteers and focus on more challenging discussions.  
   
-__Our Solution?__
+__Our Solution?__ :bulb:
 
 Create a chat bot that users can click on and interactive with to answer their common questions, in particular related to travel to the U.S. 
 
@@ -18,11 +18,11 @@ This will enable users to easily discover whether they are elibgible to travel t
 * Allow the user to answer their own questions related to travel in the U.S :us:
 * Reduce calls related to travel going through to the helpline :phone:
 
-### Prototype
+### Prototype :pencil2:
 ![Sketch Design](https://files.gitter.im/Jen-Harris/XtAX/image.png)
 ![Sketch design 2](https://files.gitter.im/Jen-Harris/FgoI/image.png)
 
-### Final Product 
+### Final Product :trophy:
 See our final product [here!](http://unlock-chat.surge.sh/)
   
   Or see the flow below: 
