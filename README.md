@@ -3,7 +3,32 @@
 ## Cast 
 _*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
 
-__*Coming Soon...*__:dancer:
+### Week 1 : Unlock 
+
+### Overview 
+Unlock have a real problem with their helpline has seen an increase in calls relating to questions that can be answered through their online "information hub". They needed to find a way to reduce the number of calls related to simple questions to free up the time of the volunteers and focus on more challenging discussions.  
+  
+__Our Solution?__
+
+Create a chat bot that users can click on and interactive with to answer their common questions, in particular related to travel to the U.S. 
+
+This will enable users to easily discover whether they are elibgible to travel to the U.S. on an ESTA or a Visa. It also provides them with examples of conviction as well as alternative options on how to travel.
+
+ **The aims of the solution**
+* Allow the user to answer their own questions related to travel in the U.S :us:
+* Reduce calls related to travel going through to the helpline :phone:
+
+### Prototype
+![Sketch Design](https://files.gitter.im/Jen-Harris/XtAX/image.png)
+![Sketch design 2](https://files.gitter.im/Jen-Harris/FgoI/image.png)
+
+### Final Product 
+See our final product [here!](http://unlock-chat.surge.sh/)
+  
+  Or see the flow below: 
+  ![gif of flow](https://files.gitter.im/Jen-Harris/16yl/UnlockFinalProduct2.gif)
+
+__*More Coming Soon...*__:dancer:
 
 ## Donut4Life 
 _*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.17*_  
@@ -25,7 +50,7 @@ We invisioned the hardware device to have the appearance of a life buoy and be u
 #### Software  
   
 The companion software would compliment the hardware by providing users somewhere to:    
-* Regiter their keyring
+* Register their keyring
 * Invite friends to start using the technology
 * Educate users through trivia and _*"Did you know?"*_ features
 * Raise awareness about the tide by having alerts and and clear high-tide times built into the dashboard  
