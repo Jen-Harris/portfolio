@@ -1,6 +1,6 @@
 # Jen Harris | Portfolio :ledger:
 
-## Cast 
+## CAST _*(Centre for Acceleration of Social Technology)*_ 
 _*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
 
 ### Week 1 | Unlock :unlock:
