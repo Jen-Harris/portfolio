@@ -43,7 +43,7 @@ See our final product [here!](http://lcn.surge.sh/):eyes:
 ## Week 3 | Against Violence and Abuse
 
 ### Prototype :pencil2:
-![](https://files.gitter.im/Jen-Harris/sr15/image.png)
+![](https://files.gitter.im/Jen-Harris/vU2A/image.png)
   
 ![](https://files.gitter.im/Jen-Harris/ibkV/image.png)
   
