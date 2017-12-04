@@ -28,6 +28,30 @@ See our final product [here!](http://unlock-chat.surge.sh/):eyes:
   Or see the flow below: 
   ![gif of flow](https://files.gitter.im/Jen-Harris/16yl/UnlockFinalProduct2.gif)
 
+## Week 2 | Law Centres Network 
+
+### Prototype :pencil2:
+![](https://files.gitter.im/Jen-Harris/TOnp/image.png)
+  
+![](https://files.gitter.im/Jen-Harris/zdzY/image.png)
+  
+![](https://files.gitter.im/Jen-Harris/6Akc/image.png)
+
+### Final Product :trophy:
+See our final product [here!](http://lcn.surge.sh/):eyes:
+
+## Week 3 | Against Violence and Abuse
+
+### Prototype :pencil2:
+![](https://files.gitter.im/Jen-Harris/sr15/image.png)
+  
+![](https://files.gitter.im/Jen-Harris/ibkV/image.png)
+  
+![](https://files.gitter.im/Jen-Harris/aPmF/image.png)
+
+### Final Product :trophy:
+See our final product [here!](http://ava-uk.surge.sh/):eyes:
+
 __*More Coming Soon...*__:dancer:
 
 ----
@@ -136,10 +160,7 @@ If you want to see more about the project the repo is [here](https://github.com/
     
 
 ## Want more? :sunglasses:
-Check out my [CV](https://github.com/Jen-Harris/cv)
-
-or a couple of my Founders & Coders student projects:
-* [The FACtory](https://github.com/Jen-Harris/the-FACtory) | A platform for students at Founders & Coders to share ideas for student projects
-* [Beans](https://github.com/Jen-Harris/week6-kidneybeans)| An app to share cool coffee shop and restaurant suggestions around Founders & Coders
+* Check out my [CV](https://github.com/Jen-Harris/cv)
+* Email me: jennifer.louise.harris@gmail.com
 
 :wave:
