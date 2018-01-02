@@ -3,6 +3,36 @@
 ## CAST _*(Centre for Acceleration of Social Technology)*_ 
 _*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
 
+### Lancashire Women's Centre :two_women_holding_hands: 
+  
+### Overview :clipboard:
+
+There are many complex challenges facing LWC. We learnt about:
+ - the complex emotions of **stigma** and **fear of judgement** attached to seeking help with services
+ - Women feeling they are **wasting people's time** by seeking help with LWC
+ - Differing experiences for users based on **who answers the phone**
+- The need to make sure that users are getting the services that are **right for them**
+ - How to use the LWC **peer support group** to its fullest extent?
+ - The lack of **data** to help guide users journeys through the cente and direct LWCs services. 
+  
+ __Our Solution?__ :bulb:
+ 
+> An app to help women access the right services so they can feel more in control of their lives
+
+ **The aims of the solution**
+* To give women a **safe** way to see what services LWC offer 
+* To reassure women that they are **not alone** through **real stories** of women LWC have helped in the past
+* To create a feeling of **trust** between the women and LWC
+* To guide women to contact LWC in the way that is **right for them**
+
+ ### Prototype :pencil2: 
+
+### Final Product :trophy:
+See our final product [here!](https://lwc.surge.sh/):eyes:
+  
+  Or see the flow below:
+  ![lwc gif](https://files.gitter.im/Jen-Harris/ceZU/lwcgif.gif)
+
 ### Blue Cross :dog:
  
 ### Overview :clipboard:
@@ -66,7 +96,7 @@ See our final product [here!](http://unlock-chat.surge.sh/):eyes:
     
   ![gif of flow](https://files.gitter.im/Jen-Harris/16yl/UnlockFinalProduct2.gif)
 
-## AVA | Against Violence and Abuse
+## AVA | Against Violence and Abuse :womens:
 
 ### Prototype :pencil2:
 ![](https://files.gitter.im/Jen-Harris/vU2A/image.png)
