@@ -7,7 +7,7 @@ _*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
   
 ### Overview :clipboard:
 
-There are many complex challenges facing LWC. We learnt about:
+There are many complex challenges facing LWC. Including:
  - the complex emotions of **stigma** and **fear of judgement** attached to seeking help with services
  - Women feeling they are **wasting people's time** by seeking help with LWC
  - Differing experiences for users based on **who answers the phone**
@@ -31,6 +31,8 @@ There are many complex challenges facing LWC. We learnt about:
 See our final product [here!](https://lwc.surge.sh/):eyes:
   
   Or see the flow below:
+    
+    
   ![lwc gif](https://files.gitter.im/Jen-Harris/ceZU/lwcgif.gif)
 
 ### Blue Cross :dog:
