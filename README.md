@@ -35,7 +35,9 @@ __Our Solution?__ :bulb:
 ### Final Product :trophy:
 See our final product [here!](https://bluecross.surge.sh/):eyes:
   
-  Or see the flow below: 
+  Or see the flow below:
+    
+    
 ![blue cross gif](https://files.gitter.im/Jen-Harris/Pqbs/productgif2.gif)
 
 ### Unlock :unlock:
