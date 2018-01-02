@@ -21,6 +21,15 @@ __Our Solution?__ :bulb:
 * To reassure them through **positive language** that Blue Cross has the best interests of the animal at heart
 * To assess the rehousing application in terms of need, and **triage** them appropriately
 * To covertly **flag up** for signs of wrongdoing through questionnaires
+  
+### Prototype :pencil2:
+
+![](https://files.gitter.im/Jen-Harris/8uDK/image.png)
+  
+![](https://files.gitter.im/Jen-Harris/5DxB/image.png)
+  
+![](https://files.gitter.im/Jen-Harris/AUtK/image.png) 
+ 
 
 
 ### Final Product :trophy:
@@ -52,6 +61,7 @@ This will enable users to easily discover whether they are elibgible to travel t
 See our final product [here!](http://unlock-chat.surge.sh/):eyes:
   
   Or see the flow below: 
+    
   ![gif of flow](https://files.gitter.im/Jen-Harris/16yl/UnlockFinalProduct2.gif)
 
 ## AVA | Against Violence and Abuse
