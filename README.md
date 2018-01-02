@@ -3,6 +3,32 @@
 ## CAST _*(Centre for Acceleration of Social Technology)*_ 
 _*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
 
+### Blue Cross :dog:
+ 
+### Overview :clipboard:
+Blue Cross are facing many challenges in the pet market, mainly:
+ - They are **overwhelmed by demand** for pets that they simply didn't have the capacity to fill
+ - They are battling with **unregulated marketplaces** thriving on a **convenience-seeking public**
+ - People struggling with complex emotions of **stigma** and **fear of judgement** brought on when giving up your pet
+Currently people have to call Blue Cross to give up a pet which can become a lengthy process. So many opt to give up their pets on platforms such as Gumtree and Preloved which have lower barriers to entry and also provide financial incentive. 
+
+__Our Solution?__ :bulb:
+
+> A companion app for conscientious owners to find a loving new home for their pets
+
+ **The aims of the solution**
+* To give rehomers a **viable alternative** to marketplaces like Gumtree
+* To reassure them through **positive language** that Blue Cross has the best interests of the animal at heart
+* To assess the rehousing application in terms of need, and **triage** them appropriately
+* To covertly **flag up** for signs of wrongdoing through questionnaires
+
+
+### Final Product :trophy:
+See our final product [here!](https://bluecross.surge.sh/):eyes:
+  
+  Or see the flow below: 
+![blue cross gif](https://files.gitter.im/Jen-Harris/Pqbs/productgif2.gif)
+
 ### Unlock :unlock:
 
 ### Overview :clipboard:
@@ -40,9 +66,7 @@ See our final product [here!](http://unlock-chat.surge.sh/):eyes:
 ### Final Product :trophy:
 See our final product [here!](http://ava-uk.surge.sh/):eyes:
 
-__*More Coming Soon...*__:dancer:
-
-----
+---
 
 ## Donut4Life 
 _*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.17*_  
