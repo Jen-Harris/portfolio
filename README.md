@@ -1,7 +1,42 @@
 # Jen Harris | Portfolio :ledger:
 
-## CAST _*(Centre for Acceleration of Social Technology)*_ 
-_*5 weeks of design and prototyping | 27.11.17 - 19.12.17*_
+## InFact 
+_*A digital agency specialising in charity and education | November 2017 - Present*_
+
+### Devon Air Ambulace :helicopter:
+
+### Overview :clipboard:
+Some of the challenges facing DAA included: 
+* Important documents getting **lost** in the post
+* **Repetition of tasks** done by volunteers and the finance team
+* Volunteers **wasting time** going to outlets where the collection boxes are still empty or getting calls from outlets when they aren't in the area
+* The desire to improve the process but fear of knowing if the process would remain **accurate and safe**
+* The struggle to adjust to a digitised **cashless world** when a chief source of income is cash donations
+* Communicating **appreciation to the volunteers** who give up their time and effort , but are working remotely and spread out across the county
+
+
+ __Our Solution?__ :bulb:
+ 
+> A platform to help volunteers reduce the time spent on paperwork by filling in financial forms digitally and without repetition.
+
+ **The aims of the solution**
+* Reduce the time volunteers spend on completing forms
+* Reduce errors 
+* Reduce repetition of work done volunteers and finance department 
+* Avoid the risk of any further lost documents 
+* Increase the speed in which the finance team can review returns
+* Simple and optimised towards the older demographic who make up the lions share of volunteers
+
+Throughout our designs we took into consideration:
+* The typical age of the user and the implication of that on design:
+    * Large text and buttons
+    * No distracting images or text
+    * Narrow text width
+    * Simply text
+    * High colour contrast
+ 
+### Final Product :trophy:
+See our prototype for DAA **Volunteer Assistant** __[here](https://DAAT.surge.sh)__ :eyes:
 
 ### Lancashire Women's Centre :two_women_holding_hands: 
   
@@ -24,8 +59,6 @@ There are many complex challenges facing LWC. Including:
 * To reassure women that they are **not alone** through **real stories** of women LWC have helped in the past
 * To create a feeling of **trust** between the women and LWC
 * To guide women to contact LWC in the way that is **right for them**
-
- ### Prototype :pencil2: 
 
 ### Final Product :trophy:
 See our final product [here!](https://lwc.surge.sh/):eyes:
