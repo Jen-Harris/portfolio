@@ -40,7 +40,7 @@ See our prototype for DAA **Volunteer Assistant** __[here](https://DAAT.surge.sh
 
 Or watch the flow here:
 
-![daat gif](https://files.gitter.im/Jen-Harris/gQf3/daatgif.gif/)
+![daat gif](https://files.gitter.im/Jen-Harris/gQf3/daatgif.gif)
 
 
 ### Lancashire Women's Centre :two_women_holding_hands: 
