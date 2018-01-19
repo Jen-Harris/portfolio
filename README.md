@@ -35,6 +35,10 @@ Throughout our designs we took into consideration:
     * Simply text
     * High colour contrast
  
+### Prototype :pencil2:
+
+![daat prototype](https://files.gitter.im/Jen-Harris/0KqT/image.png)
+
 ### Final Product :trophy:
 See our prototype for DAA **Volunteer Assistant** __[here](https://DAAT.surge.sh)__ :eyes:
 
@@ -65,6 +69,10 @@ There are many complex challenges facing LWC. Including:
 * To create a feeling of **trust** between the women and LWC
 * To guide women to contact LWC in the way that is **right for them**
 
+### Prototype :pencil2:
+
+![lwc prototype](https://files.gitter.im/Jen-Harris/84KU/image.png)
+
 ### Final Product :trophy:
 See our final product [here!](https://lwc.surge.sh/):eyes:
   
@@ -94,13 +102,8 @@ __Our Solution?__ :bulb:
   
 ### Prototype :pencil2:
 
-![](https://files.gitter.im/Jen-Harris/8uDK/image.png)
+![](https://files.gitter.im/Jen-Harris/v0Dx/image.png)
   
-![](https://files.gitter.im/Jen-Harris/5DxB/image.png)
-  
-![](https://files.gitter.im/Jen-Harris/AUtK/image.png) 
- 
-
 
 ### Final Product :trophy:
 See our final product [here!](https://bluecross.surge.sh/):eyes:
@@ -126,8 +129,8 @@ This will enable users to easily discover whether they are elibgible to travel t
 * Reduce calls related to travel going through to the helpline :phone:
 
 ### Prototype :pencil2:
-![Sketch Design](https://files.gitter.im/Jen-Harris/XtAX/image.png)
-![Sketch design 2](https://files.gitter.im/Jen-Harris/FgoI/image.png)
+![unlock prototype](https://files.gitter.im/Jen-Harris/xlRK/image.png)
+
 
 ### Final Product :trophy:
 See our final product [here!](http://unlock-chat.surge.sh/):eyes:
@@ -139,11 +142,9 @@ See our final product [here!](http://unlock-chat.surge.sh/):eyes:
 ## AVA | Against Violence and Abuse :womens:
 
 ### Prototype :pencil2:
-![](https://files.gitter.im/Jen-Harris/vU2A/image.png)
+![](https://files.gitter.im/Jen-Harris/pLKI/image.png)
   
-![](https://files.gitter.im/Jen-Harris/ibkV/image.png)
-  
-![](https://files.gitter.im/Jen-Harris/aPmF/image.png)
+
 
 ### Final Product :trophy:
 See our final product [here!](http://ava-uk.surge.sh/):eyes:
