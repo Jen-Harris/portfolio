@@ -38,6 +38,11 @@ Throughout our designs we took into consideration:
 ### Final Product :trophy:
 See our prototype for DAA **Volunteer Assistant** __[here](https://DAAT.surge.sh)__ :eyes:
 
+Or watch the flow here:
+
+![daat gif]https://files.gitter.im/Jen-Harris/gQf3/daatgif.gif/)
+
+
 ### Lancashire Women's Centre :two_women_holding_hands: 
   
 ### Overview :clipboard:
