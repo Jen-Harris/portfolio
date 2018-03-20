@@ -150,39 +150,6 @@ See our final product [here!](http://unlock-chat.surge.sh/):eyes:
 See our final product [here!](http://ava-uk.surge.sh/):eyes:
 
 ---
-
-## Donut4Life 
-_*1 Day Hackathon in collaboration with RNLI, Facebook & Ladies that UX | 4.11.17*_  
-
-### Summary :page_with_curl: 
-The Royal National Life Boat Institution (RNLI) is the largest charity that saves lives at sea in the UK. As a team we focused on exploring ways to _*"Encourage walkers to behave safetly near the water"*_. 
-
-### Challenge :dizzy:
-Currently in the UK there are 400 preventable water fatalities a year and over 360,000 globally. 
-In the UK walking is alarmingly the 2nd highest cause of fatalities in the UK. These are people who are typically familiar with their walking route and have an 80% likelihood to be male.
-The RNLI feel strongly that these would be preventable with the correct education amongst the vulnerable and want to use technology to help.   
-  
-### Solution :bulb:
-As a team we came up with a joint hardware and software solution to tackle the issue of drowning fatalities and accidents amongst the walkers.    
-#### Hardware  
-We invisioned the hardware device to have the appearance of a life buoy and be used a key ring or necklace. The device when squeezed would have the ability to alert your local RNLI representative if you are in a dangerous situation.  
-![](https://files.gitter.im/Jen-Harris/92It/image.png)  
-
-#### Software  
-  
-The companion software would compliment the hardware by providing users somewhere to:    
-* Register their keyring
-* Invite friends to start using the technology
-* Educate users through trivia and _*"Did you know?"*_ features
-* Raise awareness about the tide by having alerts and and clear high-tide times built into the dashboard  
-
-For our design we took inspiration from the RNLI colour scheme and design elments from Fitbit. we created the following prototype using Sketch and Marvel:  
-  
-![Prototype](https://files.gitter.im/Jen-Harris/hNUB/image.png)  
-  
-![RNLI gif](http://g.recordit.co/2OC7gfGSSC.gif)  
-  
-  --- 
     
 
 ## All About Me
