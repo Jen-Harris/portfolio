@@ -160,7 +160,7 @@ At Founders and Coders we have a long standing relationship with [Anna Frued Cen
 _*All About Me*_ is an app to help young people with mental ill health transition to adult care by providing them with a simple form that enables them to explain personal details about themselves to avoid repeating distressing memories with multiple clinicians. 
 
 ### Challenge :dizzy:
-Currently young people use a paper form to provide information the their future clinicians. We needed to ensure that the app provides a more engaging alternative to the current solution whilst minimising the distress caused with more challenging questions.
+Currently young people use a paper form to provide information to their future clinicians. We needed to ensure that the app provides a more engaging alternative to the current solution whilst minimising the distress caused with more challenging questions.
 
 ### Solution :bulb:
 Our aim is to make a user friendly and enjoyable app to enable young people to spend the time required to fill in the details to help them transition smoothly into adult care. 
